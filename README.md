@@ -11,4 +11,4 @@
 - Tabela wyśrodkowana w poziomie i odsunięta od górnej krawędzi o 100px
 - Czarna ramka 1px wokół komórek i zapadnięte krawędzie tabeli
 
-[Str 1](str1.png)
+![Str 1](str1.png)
