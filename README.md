@@ -3,7 +3,7 @@
 
         Przygotuj witrynę składającą się z 5 podstron. Nawigacja między stronami
         odbywa się przy pomocy linków (JEDEN, DWA ...), a powrót do strony
-        początkowej po kliknięciu na ikonę domu o kodzie "&amp;#127968;"".
+        początkowej po kliknięciu na ikonę domu o kodzie "&#127968;"".
 
 - Linki umieszczone w tabeli przedstawionej na obrazach (rozmiar komórki 100px X 100px). Komórki różnokolorowe.
 - Nawigacja między podstronami przy pomocy linków (bez podkreślenia i w kolorze czarnym)
