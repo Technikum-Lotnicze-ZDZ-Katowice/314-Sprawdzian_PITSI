@@ -12,6 +12,4 @@
 - Czarna ramka 1px wokół komórek i zapadnięte krawędzie tabeli
 
 
-![Index](index.png)
-
-![Str 1](str1.png)
+![Index](index.png) ![Str 1](str1.png)
