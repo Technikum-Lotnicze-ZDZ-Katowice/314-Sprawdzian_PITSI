@@ -12,7 +12,7 @@ i rozmiarze 30px.
 - Font "Arial" i wyrównanie komórek do środka
 - Tabela wyśrodkowana w poziomie i odsunięta od górnej krawędzi o 100px
 - Czarna ramka 1px wokół komórek i zapadnięte krawędzie tabeli
-- Wyświetl czerwoną obwódkę (2px) po najechaniu kursorem myszy 
+- Wyświetl czerwoną obwódkę (2px) wokół komórek po najechaniu kursorem myszy 
 
 
 ![Index](index.png) ![Str 1](str1.png) ![Str 2](str2.png) ![Str 3](str3.png) ![Str 3](str3.png) ![Str 4](str4.png) ![Hover](hover.png)
